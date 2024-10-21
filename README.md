@@ -3,7 +3,7 @@
 ## Material
 
 Assignment: [here](docs/assignment.pdf)
-Sldes: [here](docs/slides.pdf)
+Slides: [here](docs/slides.pdf)
 
 
 ## How to deliver the assignment:
