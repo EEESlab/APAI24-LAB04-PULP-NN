@@ -13,7 +13,7 @@ Use Virtuale, upload only the assignment file named as follows:
 `LAB#_APAI_name1_name2.ipynb`
 
 
-**Assignment DEADLINE: 01/11/2024 (at 14:30)**
+**Assignment DEADLINE: 15/11/2024 (at 14:30)**
 
 ___
 
